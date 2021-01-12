@@ -31424,6 +31424,8 @@ select {
           animation: bounce 1s infinite;
 }
 
+/*@import 'bootstrap';*/
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
